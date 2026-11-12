@@ -1,0 +1,12 @@
+{
+  "name": "neuroweave-lab",
+  "version": "0.4.0",
+  "private": true,
+  "description": "Local-first multimodal multi-region synthetic connectome and continual-learning research workbench",
+  "scripts": {
+    "test": "node tests/smoke-test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
